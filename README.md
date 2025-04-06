@@ -12,26 +12,27 @@
 ### 🧠 About Me
 
 - 👨‍💻 Currently working on **AI and Machine Learning projects**
-- 🎓 Strong foundation in **Data Science, Deep Learning, and Model Building**
 - ⚽ Former college football player – team spirit, discipline, and balance
 - 📈 Passionate about solving real-world problems using tech
+- Interests : Football, Fitness, Nutrition, Food, Self-improvement.
 
 ---
 
 ### 🚀 Tech Stack
 
-- **Languages:** Python, C++, SQL
-- **Libraries & Frameworks:** TensorFlow, PyTorch, Scikit-learn, Pandas
-- **Tools:** Jupyter, VSCode, Git, Docker
-- **Databases:** MySQL, MongoDB
+- **Programming Languages:** Python, JavaScript 
+- **ML & Data Science:** Scikit-learn, Pandas, NumPy, Matplotlib, TensorFlow (beginner), EDA, Feature Engineering 
+- **Web Development:** React, Redux, JavaScript, HTML, CSS, jQuery
+- **Tools & Platforms:** Git, GitHub, Jupyter Notebook, VS Code
+- **Databases:** SQL (beginner), MongoDB (basic exposure)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://my-portfolio-or2douenn-ayushdhankers-projects.vercel.app/" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush-dhanker&show_icons=true&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-dhanker&theme=default" />
 </p>
 
 ---
@@ -39,7 +40,7 @@
 ### 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ayush-dhanker/)
-- [Portfolio]([https://your-portfolio.com](https://my-portfolio-or2douenn-ayushdhankers-projects.vercel.app/))
+- [Portfolio](https://my-portfolio-or2douenn-ayushdhankers-projects.vercel.app/)
 - [Email](mailto:ayush.dhanker@gmail.com)
 
 ---
