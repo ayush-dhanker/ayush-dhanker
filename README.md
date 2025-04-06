@@ -30,7 +30,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" />
+  <img src="https://my-portfolio-or2douenn-ayushdhankers-projects.vercel.app/" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default" />
 </p>
 
