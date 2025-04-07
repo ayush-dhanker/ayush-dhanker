@@ -11,14 +11,15 @@
 
 ### 🧠 About Me
 
-- 👨‍💻 Currently working on **AI and Machine Learning projects**
+- Currently working on **AI and Machine Learning projects**
+- 🎓 Master's student in **Data and Knowledge Engineering** at Otto von Guericke University, Magdeburg
 - ⚽ Former college football player – team spirit, discipline, and balance
-- 📈 Passionate about solving real-world problems using tech
+- Passionate about solving real-world problems using tech
 - Interests : Football, Fitness, Nutrition, Food, Self-improvement.
 
 ---
 
-### 🚀 Tech Stack
+###  Tech Stack
 
 - **Programming Languages:** Python, JavaScript 
 - **ML & Data Science:** Scikit-learn, Pandas, NumPy, Matplotlib, TensorFlow (beginner), EDA, Feature Engineering 
@@ -37,7 +38,7 @@
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ayush-dhanker/)
 - [Portfolio](https://my-portfolio-or2douenn-ayushdhankers-projects.vercel.app/)
