@@ -4,7 +4,7 @@
 <!--   <img src="./aiCover.png" alt="AI Developer Banner" width="80%" /> -->
 <!-- </p> -->
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Ayush Dhanker</h1>
 <h3 align="center">AI/ML Enthusiast | Developer | Lifelong Learner</h3>
 
 ---
