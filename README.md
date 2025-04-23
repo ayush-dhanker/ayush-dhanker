@@ -12,6 +12,7 @@
 ### 🧠 About Me
 
 - Currently working on **AI and Machine Learning projects**
+-  I’m now expanding my skills in **Deep Learning and model development using PyTorch**
 - 🎓 Master's student in **Data and Knowledge Engineering** at Otto von Guericke University, Magdeburg
 - ⚽ Former college football player – team spirit, discipline, and balance
 - Passionate about solving real-world problems using tech
