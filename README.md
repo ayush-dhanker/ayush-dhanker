@@ -23,7 +23,7 @@
 ###  Tech Stack
 
 - **Programming Languages:** Python, JavaScript 
-- **ML & Data Science:** Scikit-learn, Pandas, NumPy, Matplotlib, TensorFlow (beginner), EDA, Feature Engineering 
+- **ML & Data Science:** Scikit-learn, Pandas, NumPy, Matplotlib, Pytorch, EDA, Feature Engineering 
 - **Web Development:** React, Redux, JavaScript, HTML, CSS, jQuery
 - **Tools & Platforms:** Git, GitHub, Jupyter Notebook, VS Code
 - **Databases:** SQL (beginner), MongoDB (basic exposure)
