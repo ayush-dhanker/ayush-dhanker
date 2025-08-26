@@ -19,13 +19,15 @@
 
 ---
 
-###  Tech Stack
+###  Tech Stack 
 
-- **Programming Languages:** Python, JavaScript 
-- **ML & Data Science:** Scikit-learn, Pandas, NumPy, Matplotlib, Pytorch, EDA, Feature Engineering 
-- **Web Development:** React, Redux, JavaScript, HTML, CSS, jQuery
-- **Tools & Platforms:** Git, GitHub, Jupyter Notebook, VS Code
-- **Databases:** SQL (beginner), MongoDB (basic exposure)
+- **Programming Languages:** Python , JavaScript (ES6+) , Pytorch, FastAPI
+- **Libraries & Frameworks:** Scikit-learn , Pandas , NumPy , Matplotlib , Seaborn
+- **ML & Deep Learning:** Regression , Classification , Clustering , Cross-Validation , Evaluation Metrics , EDA , Feature Engineering, Generative AI (learning).
+- **NLP & ML Tools (learning):** Hugging Face Transformers, spaCy, BERT, RAG pipelines, Embeddings
+- **Web Development:** React , NextJS , Redux , HTML , CSS , Tailwind CSS (basic)
+- **Tools & Platforms:** Git, GitHub, Jupyter Notebook, VS Code, Docker 
+- **Databases:** MongoDB (basic exposure), Postgre SQL
 
 ---
 
@@ -46,5 +48,5 @@
 
 ---
 
-⭐️ *Thanks for visiting my profile! Feel free to check out my repositories and connect.*
+ *Thanks for visiting my profile! Feel free to check out my repositories and connect.*
 
