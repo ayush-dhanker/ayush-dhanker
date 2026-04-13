@@ -9,6 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ayush--dhanker-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-dhanker)
 [![GitHub](https://img.shields.io/badge/GitHub-ayush--dhanker-181717?style=flat&logo=github)](https://github.com/ayush-dhanker)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-8A2BE2?style=flat&logo=vercel&logoColor=white)](https://portfolio-gamma-lac-20ccywg6w5.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-ayush.dhanker.work%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ayush.dhanker.work@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Magdeburg,_Germany-3FB950?style=flat)](#)
 [![Open to Work](https://img.shields.io/badge/🟢-Open_to_Internships-3FB950?style=flat)](#)
