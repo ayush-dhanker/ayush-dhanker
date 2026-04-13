@@ -22,19 +22,18 @@
 - 🎓 Master's student in **Data & Knowledge Engineering** at Otto von Guericke University, Magdeburg
 - 🤖 Hands-on with **RAG pipelines**, **LLM fine-tuning (LoRA/QLoRA)**, and **agentic AI systems**
 - ⚡ Currently expanding into **LangGraph** — building stateful, multi-agent, human-in-the-loop workflows
-- 🔬 Running a 5-month MLOps course project: **end-to-end phishing email detection** using NLP + DistilBERT
 - ⚽ Former college footballer — team spirit, discipline, and consistency carry over to engineering
 - 🌍 Languages: German (A1) · English (C1) · Hindi (Native)
 
 ---
 
-## ⚡ Currently Learning
+## ⚡ Currently Exploring
 
 ```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░  LangGraph fundamentals         70%
-▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░  Multi-agent systems             45%
-▓▓▓▓▓▓▓▓░░░░░░░░░░░░░  Human-in-the-loop workflows     40%
-▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░  Agentic RAG pipelines           60%
+LangGraph fundamentals      
+Multi-agent systems          
+Human-in-the-loop workflows  
+Agentic RAG pipelines        
 ```
 
 ---
@@ -183,6 +182,6 @@ Conversational RAG with semantic indexing, query rewriting, and context-aware re
 ---
 
 <div align="center">
-  <i>Seeking AI/ML Internship or Werkstudent position in Germany · Open to relocation within DE</i><br/>
+  <i>Seeking AI/ML Internship or Werkstudent position in Germany · Open to relocation within Germany</i><br/>
   <sub>Last updated: April 2026</sub>
 </div>
