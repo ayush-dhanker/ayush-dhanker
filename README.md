@@ -108,15 +108,24 @@ End-to-end RAG assistant for university regulations. FAISS + Sentence-Transforme
 `RAG` `FAISS` `TinyLlama` `LoRA` `FastAPI` `Docker` `LangGraph ✨`
 
 ---
+ 
+### 🔍 [Evaluating Transparency in AI Resume Screening](https://github.com/ayush-dhanker/Resume_screening_project)
+> **Human-Centered AI · Explainability · Course Project**
+ 
+Identified transparency and explainability gaps in AI-driven resume screening systems. Designed and implemented a transparent screening system grounded in HCAI principles — incorporating fairness, explainability, and user empowerment to improve clarity and trust for end users.
+ 
+`Human-Centered AI` `Explainability` `Fairness` `AI Transparency` `Python`
+ 
+---
 
-### 📧 Phishing Email Detection System *(Course Project · In Progress)*
+<!-- ### 📧 Phishing Email Detection System *(Course Project · In Progress)*
 > **NLP · MLOps · Team Project (5 months)**
 
 End-to-end phishing detection pipeline following the Haertel MLOps process model. TF-IDF + DistilBERT, experiment tracking with MLflow, FastAPI serving, Docker containerization.
 
 `NLP` `DistilBERT` `TF-IDF` `MLflow` `FastAPI` `Docker` `MLOps`
 
----
+--- -->
 
 ### ✉️ Cold Mail Generator
 > **LLM Agent · LangChain · Groq**
