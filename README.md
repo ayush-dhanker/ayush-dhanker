@@ -132,7 +132,7 @@ End-to-end phishing detection pipeline following the Haertel MLOps process model
 Built an end-to-end agentic research pipeline that takes a topic, plans sub-queries, fetches from multiple sources in parallel, and iteratively refines output until a quality threshold is met. Implements all 4 LangGraph workflow patterns — sequential, parallel, conditional, and iterative — in a single production graph. Deployed as a full-stack web application with FastAPI backend and React frontend.
 LangGraph LangChain FastAPI React Docker Groq Tavily Railway Vercel Python
 
-`LangGraph LangChain FastAPI React Docker Groq Tavily Railway Vercel Python`
+`LangGraph` `LangChain` `FastAPI` `React` `Docker` `Groq` `Tavily` `Railway` `Vercel` `Python`
 
 ---
 
