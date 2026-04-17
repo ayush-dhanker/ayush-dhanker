@@ -184,7 +184,7 @@ Conversational RAG with semantic indexing, query rewriting, and context-aware re
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ayush-dhanker&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_rank=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ayush-dhanker&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_rank=true&hide=stars,commits,prs,issues,contribs" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-dhanker&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
