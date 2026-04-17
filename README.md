@@ -126,13 +126,13 @@ End-to-end phishing detection pipeline following the Haertel MLOps process model
 `NLP` `DistilBERT` `TF-IDF` `MLflow` `FastAPI` `Docker` `MLOps`
 
 --- -->
+### 🤖 Multistep Research Agent
+> **Agentic AI · LangGraph · Full-Stack · Live Deployment**
 
-### ✉️ Cold Mail Generator
-> **LLM Agent · LangChain · Groq**
+Built an end-to-end agentic research pipeline that takes a topic, plans sub-queries, fetches from multiple sources in parallel, and iteratively refines output until a quality threshold is met. Implements all 4 LangGraph workflow patterns — sequential, parallel, conditional, and iterative — in a single production graph. Deployed as a full-stack web application with FastAPI backend and React frontend.
+LangGraph LangChain FastAPI React Docker Groq Tavily Railway Vercel Python
 
-Automated outreach agent using LangChain + Groq with sub-3s inference. Semantic search + embeddings for context-aware personalization. Deployed as a Streamlit app.
-
-`LangChain` `Groq` `Embeddings` `Streamlit`
+`LangGraph LangChain FastAPI React Docker Groq Tavily Railway Vercel Python`
 
 ---
 
