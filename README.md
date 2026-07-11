@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Ayush+Dhanker;AI+Engineer+%7C+LLM+Systems+%7C+MLOps;Building+Agentic+AI+with+LangGraph+%E2%9A%A1" alt="Typing SVG" /></a>
@@ -136,12 +136,12 @@ LangGraph LangChain FastAPI React Docker Groq Tavily Railway Vercel Python
 
 ---
 
-### 💬 LangChain Conversational RAG Agent
-> **Local LLM · Privacy-first · Sub-2s latency**
-
-Conversational RAG with semantic indexing, query rewriting, and context-aware retrieval. Locally hosted via Ollama — no external API calls, fully private.
-
-`LangChain` `Ollama` `Vector DB` `Query Rewriting`
+### 🤖 [Multi-Agent Content Pipeline](https://github.com/ayush-dhanker/multiAgent-content-pipeline)
+> **Agentic AI · CRAG · Self-RAG · MCP · LangGraph · Full-Stack**
+ 
+Three-agent LangGraph pipeline that researches, writes, and fact-checks articles, with a real revision loop instead of a single pass. The Researcher agent uses actual MCP (Model Context Protocol) over stdio transport to call ChromaDB and relevance-grading tools. When retrieval comes back weak, CRAG corrects it with a Tavily web fallback. The Self-RAG Reviewer then grades each article section on its own and sends anything unsupported back to the Writer, capped at 2 revisions so it can't loop forever. The whole thing streams live to a React frontend over SSE.
+ 
+`LangGraph` `CRAG` `Self-RAG` `MCP` `ChromaDB` `FastAPI` `React` `Docker` `Groq` `Tavily`
 
 ---
 
@@ -203,4 +203,4 @@ Conversational RAG with semantic indexing, query rewriting, and context-aware re
 <div align="center">
   <i>Seeking AI/ML Internship or Werkstudent position in Germany · Open to relocation within Germany</i><br/>
   <sub>Last updated: April 2026</sub>
-</div>
+</div> -->
